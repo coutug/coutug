@@ -1,5 +1,13 @@
-## Hi there 👋
+<h1 align="center">Gabriel Coutu</h1>
+<h2 align="center">SRE - Gitops - Monitoring - Kubernetes</h2>
 
+I built resilient systems where you can actually see what is going on. My focus is on reusable configurations describing the state of what I want.
+
+Cautiously optimistic about AI, learn without blindy following it.
+
+## Projects
+
+## Learning
 <!--
 **coutug/coutug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
