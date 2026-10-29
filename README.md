@@ -1,24 +1,15 @@
 <h1 align="center">Gabriel Coutu</h1>
 <h2 align="center">SRE - Gitops - Monitoring - Kubernetes</h2>
 
-I built resilient systems where you can actually see what is going on. My focus is on reusable configurations describing the state of what I want.
+Building resilient systems that make it easy to understand what’s happening under the hood. My focus is on reusable configurations describing the state I want.
 
-Cautiously optimistic about AI, learn without blindy following it.
+Cautiously optimistic about AI, learning without blindy following it.
 
 ## Projects
 
-## Learning
-<!--
-**coutug/coutug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[home](https://github.com/coutug/home): home-manager setup for my 2 personal computers to keep configurations in sync. It also includes NixOS configurations for 3 little home servers running a k8s cluster.
 
-Here are some ideas to get you started:
+[k0s-home](https://github.com/coutug/k0s-home): gitops configurations for applications deployed on my home cluster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[nvim](https://github.com/coutug/nvim): neovim configurations.
+
